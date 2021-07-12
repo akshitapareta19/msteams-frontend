@@ -18,8 +18,15 @@
     "redux-devtools-extension": "^2.13.9",
     "socket.io-client": "^4.1.2",
     "web-vitals": "^1.1.2",
-    "node": "14.7.1"
   },
+  {
+    "name": "msteams-frontend",
+    "description": "a really cool app",
+    "version": "1.0.0",
+    "engines": {
+      "node": "14.7.1"
+    }
+  }
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
